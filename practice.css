@@ -1,0 +1,85 @@
+* {
+    font-family: 'courier-new';
+}
+
+body {
+	background-color:lightgrey;
+}
+
+#inner-box {
+	background-color:white;
+	border: 5px double black;
+	padding: 50px 100px;
+	margin: 50px 75px;
+	min-width:250px;
+}
+
+header {
+	text-align: center;
+	margin-bottom: 50px;
+}
+
+footer {
+	margin-top:50px;
+	text-align:center;
+	font-size: 15px;
+}
+
+#the {
+	font-size: 40px;
+}
+
+#analog {
+	font-size: 100px;
+
+}
+
+#specialists {
+	font-size:65px;
+}
+
+#thick-line {
+	border: 2px solid black;
+	margin:0px 35px;
+	min-width:150px;
+}
+
+#thin-line {
+	border: 1px solid black;
+	margin:0 35px;
+	min-width:150px;
+}
+
+#logo {
+	display:block;
+	margin:auto;
+}
+
+nav {
+	text-align: center;
+}
+
+nav li {
+	display: inline-block;
+	padding: 10px 50px 10px 50px;
+}
+
+li:hover {
+	background-color:lightgrey;
+}
+
+a:link {
+	color:black;
+}
+
+a:visited {
+	color:red;
+}
+
+section img {
+	width:100%;
+	display:block;
+	margin:auto;
+	margin-top:50px;
+}
+
